@@ -1,3 +1,4 @@
+(* Slightly modified from https://tuttologico.altervista.org/wallpaper-per-ogni-mese/ *)
 script MyScript
 	--Folder names
 	set jan to "january"
